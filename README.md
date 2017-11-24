@@ -1,2 +1,2 @@
-# buttons-alterando
-Botões com funções de Alterar e esconder para uso em forms
+# Buttons CRUD
+Estilização para botões em forms quando inclui, altera ou exclui algum item.
